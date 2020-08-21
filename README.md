@@ -1,6 +1,6 @@
 ### Hi there, I'm Frank, nice to meet you! 👋
 
-### I'm a Developer and Mentor!
+### I'm a Software Engineer and Mentor!
 
 - 🔭  I’m currently working on something JavaScript related.
 - 🌱  I’m currently learning more JavaScript.
