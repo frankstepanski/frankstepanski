@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer and Mentor!
 
-- 🔭  I’m currently working on improving my JavaScript coding.
+- 🔭  I’m currently working on improving my JavaScript skills.
 - 👯  I’m looking to collaborate on tools that can help people.
 - 💬  Ask me about anything web related.
 - 🥅  2020 Goals: Help more people change their lives by learning how to code.
