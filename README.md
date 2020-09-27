@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer and Mentor!
 
-![Profile Banner](/profile-image.png)
+
 
 - 🔭  I’m currently working on improving my JavaScript skills.
 - 👯  I’m looking to collaborate on tools that can help people.
