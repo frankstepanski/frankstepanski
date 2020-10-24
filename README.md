@@ -10,7 +10,7 @@
 
 ![Profile Banner](profile-image.png?raw=true)
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top">
 
 ### Frontend  
 <div align="center">  
@@ -20,7 +20,7 @@
 <img style="margin: 10px" src="mocha.png" alt="Mocha" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top">
 
 ### Backend  
 <div align="center">  
