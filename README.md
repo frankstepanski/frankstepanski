@@ -14,20 +14,20 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="mocha.png" alt="Mocha" height="50" />  
+<img style="margin: 15px" src="react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 15px" src="javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 15px" src="typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 15px" src="mocha.png" alt="Mocha" height="50" />  
 </div>
 
 </td><td valign="top">
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
-<img style="margin: 10px" src="amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="graphql.png" alt="GraphQL" height="50" />  
+<img style="margin: 15px" src="express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 15px" src="mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
+<img style="margin: 15px" src="amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 15px" src="graphql.png" alt="GraphQL" height="50" />  
 </div>
 
 </td></tr></table>
