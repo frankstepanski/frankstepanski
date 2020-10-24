@@ -8,8 +8,6 @@
 - 💼  Find me on [LinkedIn](https://www.linkedin.com/in/frankstepanski/ 'LinkedIn') and [Twitter](https://twitter.com/frankstepanski/ 'Twitter')
 - ⚡ Fun fact: I love to travel to Japan.
 
-![Profile Banner](profile-image.png?raw=true)
-
 <table width="100%"><tr><td valign="top">
 
 ### Frontend  
@@ -31,3 +29,7 @@
 </div>
 
 </td></tr></table>
+
+![Profile Banner](profile-image.png?raw=true)
+
+
