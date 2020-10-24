@@ -30,4 +30,4 @@
 <img style="margin: 10px" src="graphql.png" alt="GraphQL" height="50" />  
 </div>
 
-</table>
+</td></tr></table>
