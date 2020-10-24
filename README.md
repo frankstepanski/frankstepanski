@@ -10,7 +10,7 @@
 
 ![Profile Banner](profile-image.png?raw=true)
 
-<table><tr><td valign="top">
+<table width="100%"><tr><td valign="top">
 
 ### Frontend  
 <div align="center">  
