@@ -11,7 +11,7 @@
 <table width="100%" border="1"><tr><td valign="top">
 
 ### Frontend  
-<div align="center">  
+<div>  
 <img style="margin: 20px" src="javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 20px" src="typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 20px" src="react-original-wordmark.svg" alt="React" height="50" /> 
@@ -21,7 +21,7 @@
 </td><td valign="top">
 
 ### Backend  
-<div align="center">  
+<div>  
 <img style="margin: 20px" src="express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 20px" src="mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
 <img style="margin: 20px" src="postgresql-original-wordmark.svg" alt="Postgres" height="50" />  
