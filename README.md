@@ -29,5 +29,5 @@
 <img style="margin: 10px" src="nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="skills-assets/graphql.png" alt="GraphQL" height="50" />  
+<img style="margin: 10px" src="graphql.png" alt="GraphQL" height="50" />  
 </div>
