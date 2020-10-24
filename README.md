@@ -12,9 +12,9 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 20px" src="react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 20px" src="javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 20px" src="typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 20px" src="react-original-wordmark.svg" alt="React" height="50" /> 
 <img style="margin: 20px" src="mocha.png" alt="Mocha" height="50" />  
 </div>
 
