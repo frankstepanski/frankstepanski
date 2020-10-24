@@ -24,7 +24,7 @@
 <div align="center">  
 <img style="margin: 20px" src="express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 20px" src="mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
-<img style="margin: 20px" src="amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 20px" src="postgresql-original-wordmark.svg" alt="Postgres" height="50" />  
 <img style="margin: 20px" src="graphql.png" alt="GraphQL" height="50" />  
 </div>
 
