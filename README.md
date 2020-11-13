@@ -1,4 +1,4 @@
-### Hi there, I'm Frank, nice to meet you! 👋
+### Hi there, I'm Frank, nice to meet you! <img src="https://github.com/frankstepanski/frankstepanski/blob/master/assets/Hi.gif" width="29px"> 👋
 
 ### I'm a Software Engineer and Mentor!
 
@@ -12,24 +12,24 @@
 
 ### Frontend  
 <div>  
-<img style="margin: 20px" src="javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 20px" src="typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 20px" src="react-original-wordmark.svg" alt="React" height="50" /> 
-<img style="margin: 15px" src="mocha.png" alt="Mocha" height="50" />  
+<img style="margin: 20px" src="assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 20px" src="assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 20px" src="assets/react-original-wordmark.svg" alt="React" height="50" /> 
+<img style="margin: 15px" src="assets/mocha.png" alt="Mocha" height="50" />  
 </div>
 
 </td><td valign="top">
 
 ### Backend  
 <div>  
-<img style="margin: 20px" src="express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 20px" src="mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
-<img style="margin: 20px" src="postgresql-original-wordmark.svg" alt="Postgres" height="50" />  
-<img style="margin: 20px" src="graphql.png" alt="GraphQL" height="50" />  
+<img style="margin: 20px" src="assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 20px" src="assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
+<img style="margin: 20px" src="assets/postgresql-original-wordmark.svg" alt="Postgres" height="50" />  
+<img style="margin: 20px" src="assets/graphql.png" alt="GraphQL" height="50" />  
 </div>
 
 </td></tr></table>
 
-![Profile Banner](profile-image.png?raw=true)
+![Profile Banner](assets/profile-image.png?raw=true)
 
 
