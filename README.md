@@ -3,7 +3,7 @@
 ### I'm a Software Engineer and Mentor!
 
 - 🔭  Currently building inexpensive ($5) courses on teachable.
-- 👯  I’m addicting to helping people!
+- 👯  I’m addicted to helping people!
 - 💬  Ask me anything about programming or web stuff.
 - ⚡ Fun fact: I love to travel to Japan (hopefully end of 2021 next).
 
