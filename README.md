@@ -2,9 +2,9 @@
 
 ### I'm a Software Engineer and Mentor!
 
-- 🔭  I’m currently building inexpensive ($5) courses on teachable.
-- 👯  I’m love collaborating on tools that can help people.
-- 💬  Ask me about anything web related.
+- 🔭  Currently building inexpensive ($5) courses on teachable.
+- 👯  I’m addicting to helping people!
+- 💬  Ask me anything about programming or web stuff.
 - ⚡ Fun fact: I love to travel to Japan.
 
 <table width="100%" border="1"><tr><td valign="top">
