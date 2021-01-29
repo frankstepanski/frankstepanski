@@ -5,7 +5,7 @@
 - 🔭  Currently building inexpensive ($5) courses on teachable.
 - 👯  I’m addicting to helping people!
 - 💬  Ask me anything about programming or web stuff.
-- ⚡ Fun fact: I love to travel to Japan.
+- ⚡ Fun fact: I love to travel to Japan (hopefully end of 2021 next).
 
 <table width="100%" border="1"><tr><td valign="top">
 
