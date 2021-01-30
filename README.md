@@ -5,7 +5,7 @@
 - 🔭  Currently building inexpensive ($5) courses on teachable.
 - 👯  I’m addicted to helping people!
 - 💬  Ask me anything about programming or web stuff.
-- 👉  Checkout my <a href="https://gist.github.com/frankstepanski">gists</a> for quick code references
+- 👉  Checkout my <a href="https://gist.github.com/frankstepanski">gists</a> for quick code references.
 - ⚡ Fun fact: I love traveling to Japan (end of 2021).
 
 <table width="100%" border="1"><tr><td valign="top">
