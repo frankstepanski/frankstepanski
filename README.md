@@ -1,6 +1,6 @@
 ### Hi there, I'm Frank, nice to meet you! <img src="https://github.com/frankstepanski/frankstepanski/blob/master/assets/Hi.gif" width="29px">
 
-### I'm a Software Engineer and Mentor!
+### I'm a Software Engineer and Technical Mentor!
 
 - 🔭  Currently building inexpensive ($5) courses on teachable.
 - 👯  I’m addicted to helping people!
