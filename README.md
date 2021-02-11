@@ -29,7 +29,3 @@
 </div>
 
 </td></tr></table>
-
-![Profile Banner](assets/profile-image.png?raw=true)
-
-
