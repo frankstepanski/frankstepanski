@@ -4,7 +4,7 @@
 
 - 🔭  Currently building inexpensive ($5) courses on teachable.
 - 👯  Trying to get comfortable presenting live code demos on <a href="https://www.twitch.tv/frankstepanski">Twitch</a>.
-- 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for quick code references.
+- 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - 💬  Ask me anything about programming or web stuff.
 - ⚡ Fun fact: I love traveling to Japan (end of 2021).
 
