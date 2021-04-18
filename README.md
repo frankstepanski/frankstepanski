@@ -2,8 +2,8 @@
 
 ### I'm a Software Engineer and Technical Mentor!
 
-- 🔭  Currently building inexpensive ($5) courses on teachable.
-- 👯  Trying to get comfortable presenting <a href ="https://github.com/frankstepanski/twitch-streams">live code</a> demos on <a href="https://www.twitch.tv/frankstepanski">Twitch</a>.
+- 🔭  Currently building curriculum to help students learn web development.
+- 👯  Mentoring and guiding students at various coding bootcamps.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - 💬  Ask me anything about software engineering or technical interviews.
 - ⚡ Fun fact: I love traveling to Japan (next trip - end of 2021).
