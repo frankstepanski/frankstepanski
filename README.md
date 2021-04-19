@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer and Technical Mentor!
 
-- 🔭  Currently building curriculum to help students learn web development.
+- 🔭  Currently building <a href="https://github.com/frankstepanski/codingthebasics/">curriculum</a> to help students learn web development.
 - 👯  Mentoring and guiding students at various coding bootcamps.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - 💬  Ask me anything about software engineering or technical interviews.
