@@ -6,7 +6,7 @@
 - 👯  Mentoring and guiding students at various coding bootcamps.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - 💬  Ask me anything about software engineering or technical interviews.
-- ⚡ Fun fact: I love traveling to Japan (next trip - end of 2021).
+- ⚡ Fun fact: I love traveling to Japan (next trip - December 2021).
 
 <table width="100%" border="1"><tr><td valign="top">
 
