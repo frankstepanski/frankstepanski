@@ -4,8 +4,8 @@
 
 - 🔭  Developing <a href="https://github.com/frankstepanski/codingthebasics/">curriculum</a> to help students learn web development.
 - 👯  Instructing and mentoring students learn web development skills.
-- 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - 💬  Building a <a href="https://letsgetadevjob.slack.com/">Slack community</a> for students seeking their first dev job.
+- 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - ⚡ Fun fact: I love traveling to Japan (next trip - December 2021).
 
 <table width="100%" border="1"><tr><td valign="top">
