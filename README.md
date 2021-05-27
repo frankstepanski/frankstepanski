@@ -2,10 +2,10 @@
 
 ### I'm a Software Engineer and Technical Mentor!
 
-- 🔭  Currently building <a href="https://github.com/frankstepanski/codingthebasics/">curriculum</a> to help students learn web development.
-- 👯  Mentoring and guiding students at various coding bootcamps.
+- 🔭  Developing <a href="https://github.com/frankstepanski/codingthebasics/">curriculum</a> to help students learn web development.
+- 👯  Instructing and mentoring students learn web development skills.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
-- 💬  Ask me anything about software engineering or technical interviews.
+- 💬  Building a <a href="https://letsgetadevjob.slack.com/">Slack community</a> for students seeking their first dev job.
 - ⚡ Fun fact: I love traveling to Japan (next trip - December 2021).
 
 <table width="100%" border="1"><tr><td valign="top">
