@@ -3,10 +3,10 @@
 ### I'm a Software Engineer and Technical Mentor!
 
 - 🔭  Developing <a href="https://github.com/frankstepanski/codingthebasics/">curriculum</a> to help students learn web development.
-- 👯  Instructing and mentoring students learn web development skills.
 - 💬  Building a <a href="https://letsgetadevjob.slack.com/">Slack community</a> for students seeking their first dev job.
+- ✍️ Studying Java to prepare for the <a href ="https://education.oracle.com/java-se-11-developer/pexam_1Z0-819">Java SE 11 Developer Exam</a>.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
-- ⚡ Fun fact: I love traveling to Japan (next trip - December 2021).
+- ⚡ Fun fact: I love traveling to Japan (hopefully next trip - December 2021).
 
 <table width="100%" border="1"><tr><td valign="top">
 
