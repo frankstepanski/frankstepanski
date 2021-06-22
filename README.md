@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer, Instructor and Technical Mentor!
 
-- 🔭  Developing a <a href="https://github.com/frankstepanski/codingthebasics/">curriculum</a> to help students learn web development.
+- 🔭  Developing a <a href="https://github.com/frankstepanski/codingthebasics/">learning roadmap</a> to prospective coding bootcamp attendees.
 - 💬  Building a <a href="https://letsgetadevjob.slack.com/">Slack community</a> to guide students on their web development journey.
 - ✍️ Studying Java to prepare for the <a href ="https://education.oracle.com/java-se-11-developer/pexam_1Z0-819">Java SE 11 Developer Exam</a>.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
