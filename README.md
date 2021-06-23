@@ -6,7 +6,7 @@
 - 💬  Building a <a href="https://letsgetadevjob.slack.com/">Slack community</a> to guide students  to obtain their first web dev position.
 - ✍️ Studying Java to prepare for the <a href ="https://education.oracle.com/java-se-11-developer/pexam_1Z0-819">Java SE 11 Developer Exam</a>.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
-- ⚡ Fun fact: I love traveling to <a href="https://trulytokyo.com/">Japan</a> (hopefully next trip - December 2021).
+- ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> (hopefully next trip - December 2021).
 
 <table width="100%" border="1"><tr><td valign="top">
 
