@@ -4,7 +4,7 @@
 
 - 🔭  Developing a <a href="https://github.com/frankstepanski/bootcamp-projects-guide/">learning roadmap</a> to prospective coding bootcamp attendees.
 - 💬  Building a <a href="https://letsgetadevjob.slack.com/">Slack community</a> to prepare students for their first web dev position.
-- ✍️ Studying Java to prepare for the <a href ="https://education.oracle.com/java-se-11-developer/pexam_1Z0-819">Java SE 11 Developer Exam</a>.
+- ✍️  Trying my hand at writing some <a href="https://frankstepanski.medium.com/">medium articles</a> to practice and learn fun new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> (hopefully next trip - December 2021).
 
