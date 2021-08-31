@@ -6,7 +6,7 @@
 - 💬  Building a <a href="https://letsgetadevjob.slack.com/">Slack community</a> to prepare students for their first web dev position.
 - ✍️  Writing fun <a href="https://frankstepanski.medium.com/">medium articles</a> to teach others and learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
-- ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> (hopefully next trip - December 2021).
+- ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> (hopefully next trip - Spring 2022).
 
 <table width="100%" border="1"><tr><td valign="top">
 
