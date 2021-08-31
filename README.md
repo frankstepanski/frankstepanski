@@ -1,6 +1,6 @@
 ### Hi there, I'm Frank, nice to meet you! <img src="https://github.com/frankstepanski/frankstepanski/blob/master/assets/Hi.gif" width="29px">
 
-### I'm a Software Engineer, Instructor and Technical Mentor!
+### I'm a Software Engineer, Instructor and Mentor!
 
 - 🔭  Developing a <a href="https://github.com/frankstepanski/bootcamp-projects-guide/">learning roadmap</a> to prospective coding bootcamp attendees.
 - 💬  Building a <a href="https://letsgetadevjob.slack.com/">Slack community</a> to prepare students for their first web dev position.
