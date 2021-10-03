@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer, Instructor and Mentor!
 
-- 💻 Developing a learning roadmap tool called <a href="https://github.com/frankstepanski/skill-pivot/">Skill Pivot</a> to advise people shifting careers in tech.
+- 💻 Developing a learning tool called <a href="https://github.com/frankstepanski/skill-pivot/">Skill Pivot</a> to advise people shifting to tech.
 - 👨👩 Building a <a href="https://letsgetadevjob.slack.com/">Slack community</a> to prepare students for their first web dev position.
 -  📝 Writing fun <a href="https://frankstepanski.medium.com/">medium articles</a> to teach others and learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
