@@ -4,7 +4,7 @@
 
 - 👨👩 Building a <a href="https://letsgetadevjob.slack.com/">Slack community</a> to prepare students for their first web dev position.
 - 💻 Running a book club teaching <a href ="https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/">Data Structures and Algorithms</a> concepts to bootcamp grads.
--  📝 Writing fun <a href="https://frankstepanski.medium.com/">medium articles</a> to teach others and learn new topics.
+-  📝 Writing fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> (hopefully next trip - Spring 2022).
 
