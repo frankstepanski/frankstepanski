@@ -3,7 +3,7 @@
 ### I'm a Software Engineer, Instructor and Mentor!
 
 - 👨👩 Building a <a href="https://letsgetadevjob.slack.com/">Slack community</a> to prepare students for their first web dev position.
-- 💻 Running an interview prep program focusing on <a href ="https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/">Data Structures and Algorithms</a>.
+- 💻 Running an interview prep program focusing primarily on <a href ="https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/">Data Structures and Algorithms</a>.
 -  📝 Writing fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> (hopefully next trip - Spring 2022).
