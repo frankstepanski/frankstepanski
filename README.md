@@ -2,8 +2,7 @@
 
 ### I'm a Software Engineer, Instructor and Mentor!
 
-- 👨👩 Building a <a href="https://letsgetadevjob.slack.com/">Slack community</a> to prepare students for their first web dev position.
-- 💻 Helping bootcamp grads <a href ="https://github.com/frankstepanski/interview-prep">interview prep</a> on Slack and Zoom meetings.
+- 👨👩 Helping bootcamp grads <a href ="https://github.com/frankstepanski/interview-prep">interview prep</a> on <a href="https://letsgetadevjob.slack.com/">Slack</a> and Zoom meetings.
 -  📝 Writing fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> (hopefully next trip - Spring 2022).
