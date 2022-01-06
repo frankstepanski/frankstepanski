@@ -6,7 +6,7 @@
 -  📝 Writing fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - 🌱 I'm learning about <a href="https://leanpub.com/understanding-distributed-systems">Distributed Systems</a> and <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
-- ⚡ Fun facti: I love traveling to <a href="https://thebestjapan.com/">Japan</a> (hopefully next trip in 2022).
+- ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> (hopefully next trip in 2022).
 
 <table width="100%" border="1"><tr><td valign="top">
 
