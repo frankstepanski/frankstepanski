@@ -1,7 +1,7 @@
 ### Hi there, I'm Frank, nice to meet you! <img src="https://github.com/frankstepanski/frankstepanski/blob/master/assets/Hi.gif" width="29px">
 
 ### I'm a Software Engineer, Instructor and Mentor!
-- 👨 Pronouns: he/him
+- 👨 Pronouns: he/him/his
 - 👨👩 Building a community on <a href="https://letsgetadevjob.slack.com/">Slack</a> for sharing ideas, resources and support.
 - 🌱 Volunteer mentor at <a href="https://the-collab-lab.codes/">The Collab Lab</a> helping early-career developers. 
 -  📝 Writing informative and fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
