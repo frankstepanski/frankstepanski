@@ -2,11 +2,11 @@
 
 ### I'm a Software Engineer, Instructor and Mentor!
 
-- 👨👩 Helping bootcamp grads <a href ="https://github.com/frankstepanski/interview-prep">interview prep</a> on <a href="https://letsgetadevjob.slack.com/">Slack</a> and Zoom meetings.
+- 👨👩 Helping students <a href ="https://github.com/frankstepanski/interview-prep">interview prep</a> on <a href="https://letsgetadevjob.slack.com/">Slack</a> and Zoom meetings.
+- 🌱 Volunteer mentor at <a href="https://the-collab-lab.codes/">The Collab Lab</a>, helping early-career developers. 
 -  📝 Writing informative and fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
-- 🌱 Starting to learn about <a href="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164">Clean Architecture</a>, <a href="https://leanpub.com/understanding-distributed-systems">Distributed Systems</a>, <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
-- 🔥 2022 Learning Bucket List:  <a href="https://learning.oreilly.com/library/view/learning-python-5th/9781449355722/">Python</a> and <a href="https://learning.oreilly.com/library/view/flask-web-development/9781491991725/">Flask</a> then eventually <a href="https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/">Architecture Patterns</a>.
+- 🔥 2022 Learning Bucket List:  <a href="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164">Clean Architecture</a>, <a href="https://leanpub.com/understanding-distributed-systems">Distributed Systems</a>, <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
 - ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> (hopefully next trip in 2022).
 
 <table width="100%" border="1"><tr><td valign="top">
