@@ -2,8 +2,8 @@
 
 ### I'm a Software Engineer, Instructor and Mentor!
 
-- 👨👩 Building a community on <a href="https://letsgetadevjob.slack.com/">Slack</a> to share ideas, resources and help one another.
-- 🌱 Volunteer mentor at <a href="https://the-collab-lab.codes/">The Collab Lab</a>, helping early-career developers. 
+- 👨👩 Building a community on <a href="https://letsgetadevjob.slack.com/">Slack</a> for sharing ideas, resources and support.
+- 🌱 Volunteer mentor at <a href="https://the-collab-lab.codes/">The Collab Lab</a> helping early-career developers. 
 -  📝 Writing informative and fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - 🔥 2022 Learning Bucket List:  <a href="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164">Clean Architecture</a>, <a href="https://leanpub.com/understanding-distributed-systems">Distributed Systems</a>, <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
