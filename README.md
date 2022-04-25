@@ -3,7 +3,7 @@
 ### I'm a Software Engineer, Instructor and Mentor!
 - 👨 Pronouns: he/him/his
 - 👨👩 Building a community on <a href="https://letsgetadevjob.slack.com/">Slack</a> for sharing ideas, resources and support.
-- 🌱 Volunteer mentor at <a href="https://the-collab-lab.codes/">The Collab Lab</a> and <a href="https://codethedream.org/">Code the Dream</a>helping early-career developers. 
+- 🌱 Volunteer mentor @ <a href="https://the-collab-lab.codes/">The Collab Lab</a> and <a href="https://codethedream.org/">Code the Dream</a> to help early-career developers. 
 -  📝 Writing informative and fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - 🧠 2022 Learning Goals:  <a href="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164">Clean Architecture</a>, <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
