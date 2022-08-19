@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer, Instructor and Mentor!
 - 👨 Pronouns: he/him/his
-- 👨👩 Building community on <a href="https://letsgetadevjob.slack.com/">Slack</a> for sharing ideas, resources and support.
+- 👨👩 Building a community on <a href="https://letsgetadevjob.slack.com/">Slack</a> for sharing ideas, resources and support.
 - 🌱 Volunteer mentor @ <a href="https://www.codeplatoon.org/">Code Platoon</a> and <a href="https://the-collab-lab.codes/">The Collab Lab</a> helping early-career developers. 
 -  📝 Writing informative and fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
