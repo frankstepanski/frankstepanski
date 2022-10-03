@@ -6,7 +6,7 @@
 - 🌱 Volunteer mentor @ <a href="https://www.codeplatoon.org/">Code Platoon</a> and <a href="https://techtonica.org/">Techtonica</a> helping early-career developers. 
 -  📝 Writing informative and fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
-- 🧠 2022 Learning Goals:  <a href="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164">Clean Architecture</a>, <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
+- 🧠 2023 Learning Goals:  <a href="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164">Clean Architecture</a>, <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
 - 🎖️ Collecting <a href="https://github.com/frankstepanski/certificates">certificates</a> from courses and programs I have completed.
 - ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> (hopefully next trip in 2023).
 
