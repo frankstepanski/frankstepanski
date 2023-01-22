@@ -31,4 +31,6 @@
 <img style="margin: 20px" src="assets/graphql.png" alt="GraphQL" height="50" />  
 </div>
 
+![Snake animation](https://github.com/frankstepanski/frankstepanski/blob/output/github-contribution-grid-snake.svg)
+
 </td></tr></table>
