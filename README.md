@@ -2,13 +2,13 @@
 
 ### I'm a Software Engineer, Instructor and Mentor!
 - 👨 Pronouns: he/him/his
-- 👨👩 Building a community on <a href="https://letsgetadevjob.slack.com/">Slack</a> for sharing ideas, resources and support.
 - 🌱 Volunteer mentor @ <a href="https://www.codeplatoon.org/">Code Platoon</a> and <a href="https://techtonica.org/">Techtonica</a> helping early-career developers. 
 -  📝 Writing informative and fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
  - 📚 Working towards <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">AWS Solutions Architect Certification</a>.
 - 🧠 2023 Learning Goals:  <a href="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164">Clean Architecture</a>, <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
-- 🎖️ Certified ScrumMaster (certified via Scrum Alliance)
+- 🎖️ Certified ScrumMaster (through Scrum Alliance)
+- Sharing job prep resources for <a href="[https://github.com/trekhleb/javascript-algorithms](https://github.com/frankstepanski/data-structures-and-algorithms">algorithms</a>, <a href="https://github.com/frankstepanski/front-end-interview-handbook">front-end</> and <a href="https://github.com/frankstepanski/system-design-primer">system-design</>.
 - ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> and <a href="https://in.france.fr/en">France</a>.
 
 <table width="100%" border="1"><tr><td valign="top">
