@@ -9,7 +9,7 @@
  - 📚 Working towards <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">AWS Solutions Architect Certification</a>.
 - 🧠 2023 Learning Goals:  <a href="https://github.com/frankstepanski/python-primer">Python</a>, <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, and <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
 - 🎖️ Certified ScrumMaster (through Scrum Alliance)
-- 🐶 Sharing with others job prep resources for <a href="https://github.com/frankstepanski/data-structures-and-algorithms">algorithms</a>, <a href="https://github.com/frankstepanski/front-end-interview-handbook">front-end</a> and <a href="https://github.com/frankstepanski/system-design-primer">system-design</a>.
+- 🐶 Helping others with job prep resources for <a href="https://github.com/frankstepanski/data-structures-and-algorithms">algorithms</a>, <a href="https://github.com/frankstepanski/front-end-interview-handbook">front-end</a> and <a href="https://github.com/frankstepanski/system-design-primer">system-design</a>.
 - ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> and <a href="https://in.france.fr/en">France</a>.
 
 <table width="100%" border="1"><tr><td valign="top">
