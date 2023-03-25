@@ -5,6 +5,7 @@
 - 🌱 Volunteer mentor @ <a href="https://www.codeplatoon.org/">Code Platoon</a> and <a href="https://techtonica.org/">Techtonica</a> helping early-career developers. 
 -  📝 Writing informative and fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
+- 👁️ Always on the lookout to find <a href="https://github.com/frankstepanski/certificates">new courses</a> to learn and grow as a professional.
  - 📚 Working towards <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">AWS Solutions Architect Certification</a>.
 - 🧠 2023 Learning Goals:  <a href="https://github.com/frankstepanski/python-primer">Python</a>, <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, and <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
 - 🎖️ Certified ScrumMaster (through Scrum Alliance)
