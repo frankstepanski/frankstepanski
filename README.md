@@ -3,7 +3,7 @@
 ### I'm a Software Engineer, Instructor and Mentor!
 - 👨 Pronouns: he/him/his
 - 🌱 Volunteer mentor @ <a href="https://the-collab-lab.codes/">Collab Lab</a> and <a href="https://techtonica.org/">Techtonica</a> helping early-career developers. 
-- 🎖️ Certified ScrumMaster (through Scrum Alliance)
+- 🎖️ Certified ScrumMaster (via <a href="https://github.com/frankstepanski/certificates/blob/master/scrum-alliance/CSM.pdf">Scrum Alliance</a>)
 -  📝 Writing informative and fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - 👁️ Always on the lookout to find <a href="https://github.com/frankstepanski/certificates">new courses</a> to learn and grow as a professional.
