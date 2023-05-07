@@ -8,7 +8,7 @@
 - 👉  Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - 👁️ Always on the lookout to find <a href="https://github.com/frankstepanski/certificates">new courses</a> to learn and grow as a professional.
  - 📚 Working towards <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">AWS Solutions Architect Certification</a>.
-- 🧠 2023 Learning Goals:  <a href="https://www.educative.io/courses/learn-rust-from-scratch">Rust</a>, <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, and <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
+- 🧠 2023 Learning Goals:  <a href="https://www.educative.io/courses/learn-rust-from-scratch">Rust</a>, <a href="https://www.educative.io/courses/learn-rust-from-scratch">Python</a>, <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, and <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
 - 🐶 Helping others practice interviews skills in <a href="https://github.com/frankstepanski/algo-overflow">algorithms</a>, <a href="https://github.com/frankstepanski/front-end-interview-handbook">front-end</a> and <a href="https://github.com/frankstepanski/system-design-primer">system-design</a>.
 - ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> and <a href="https://in.france.fr/en">France</a>.
 
