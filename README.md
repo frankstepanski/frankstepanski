@@ -10,7 +10,7 @@
 - 📚 Working towards <a href="https://aws.amazon.com/certification/certified-developer-associate/">AWS Certified Developer - Associate</a>.
 - 🧠 2024 Learning Goals: <a href="https://www.educative.io/path/zero-to-hero-in-python">Python</a>, <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, and <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
 - 🐶 Helping others practice interviews skills in <a href="https://github.com/frankstepanski/algo-overflow">algorithms</a>, <a href="https://github.com/frankstepanski/front-end-interview-handbook">front-end</a> and <a href="https://github.com/frankstepanski/system-design-primer">system-design</a>.
-- 🎯 Career Goal: <a href="https://www.linkedin.com/pulse/software-architects-career-path-incrys/">Software Architect</a>
+- 🎯 Career Goal: Tech Lead
 - ⚡ Fun fact: I love traveling to <a href="https://thebestjapan.com/">Japan</a> and <a href="https://in.france.fr/en">France</a>.
 
 <table width="100%" border="1"><tr><td valign="top">
