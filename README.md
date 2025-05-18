@@ -2,15 +2,15 @@
 
 ### I'm a Senior Software Engineer, Tech Educator, and Career Mentor!
 - 👨 Pronouns: he/him/his
-- 🌱 Volunteer mentor @ <a href="https://the-collab-lab.codes/">Collab Lab</a> and <a href="https://techtonica.org/">Techtonica</a> helping early-career developers. 
+- 🌱 Volunteer mentor @ <a href="[https://the-collab-lab.codes/](https://www.linkedin.com/school/codepath-org/posts/?feedView=all)">CodePath</a> and <a href="https://techtonica.org/">Techtonica</a> helping early-career developers. 
 - 🎖️ Certified ScrumMaster (via <a href="https://github.com/frankstepanski/certificates/blob/master/scrum-alliance/CSM.pdf">Scrum Alliance</a>)
 - 📝 Writing informative and fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👉 Checkout some <a href="https://gist.github.com/frankstepanski">gists</a> for code references and guides.
 - 👁️ Always on the lookout to find <a href="https://github.com/frankstepanski/certificates">new courses</a> to learn and grow as a professional.
 - 📚 Working towards <a href="https://aws.amazon.com/certification/certified-developer-associate/">AWS Certified Developer - Associate</a>.
-- 🧠 2024 Learning Goals: <a href="https://www.educative.io/path/zero-to-hero-in-python">Python</a>, <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, and <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
+- 🧠 2025 Learning Goals: <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, and <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
 - 🐶 Helping others practice interview skills in algorithms, front-end, and system-design.
-- ⚡ Fun fact: Next trip is <a href="https://thebestjapan.com/">Japan</a> in 2025.
+- ⚡ Fun fact: Next trip is <a href="https://thebestjapan.com/">Japan</a> in 2026.
 - 🎯 Career Goal: Tech Lead
 
 
