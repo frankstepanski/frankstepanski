@@ -4,7 +4,6 @@
 - 👨 Pronouns: he/him/his
 - 🌱 Volunteer mentor @ <a href="https://www.linkedin.com/school/codepath-org/posts/?feedView=all)">CodePath</a> and <a href="https://techtonica.org/">Techtonica</a> helping early-career developers. 
 - 🎖️ Certified ScrumMaster (via <a href="https://github.com/frankstepanski/certificates/blob/master/scrum-alliance/CSM.pdf">Scrum Alliance</a>)
-- 📝 Writing informative and fun <a href="https://frankstepanski.medium.com/">medium articles</a> to help others learn new topics.
 - 👁️ Always on the lookout to find <a href="https://github.com/frankstepanski/certificates">new courses</a> to learn and grow as a professional.
 - 📚 Working towards <a href="https://aws.amazon.com/certification/certified-developer-associate/">AWS Certified Developer - Associate</a>.
 - 🧠 2026 Learning Goals: <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, and <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
