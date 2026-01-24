@@ -4,7 +4,7 @@
 - 👨 Pronouns: he/him/his
 - 🌱 Past volunteer mentor @ <a href="https://www.linkedin.com/school/codepath-org/posts/?feedView=all)">CodePath</a> and <a href="https://techtonica.org/">Techtonica</a>. 
 - 🎖️ Certified ScrumMaster (via <a href="https://github.com/frankstepanski/certificates/blob/master/scrum-alliance/CSM.pdf">Scrum Alliance</a>)
-- 👁️ Always on the lookout to find <a href="https://www.udemy.com/">new courses</a> to learn and grow as a professional.
+- 👁️ Always on the lookout for <a href="https://www.deeplearning.ai/">new AI resources</a> to learn and grow as a professional.
 - 📚 Working towards <a href="https://aws.amazon.com/certification/certified-developer-associate/">AWS Certified Developer - Associate</a>.
 - 🧠 2026 Learning Goals: <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, and <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
 - 🐶 Helping others practice interview skills in algorithms, front-end, and system-design.
