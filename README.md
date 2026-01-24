@@ -7,6 +7,6 @@
 - 👁️ Always on the lookout for <a href="https://www.deeplearning.ai/">new AI resources</a> to learn and grow as a professional.
 - 📚 Working towards <a href="https://aws.amazon.com/certification/certified-developer-associate/">AWS Certified Developer - Associate</a>.
 - 🧠 2026 Learning Goals: <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, and <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
-- 🐶 Helping others practice interview skills in algorithms, front-end, and system-design.
+- 🐶 Love helping others practice interview skills in algorithms, front-end, and system-design.
 - ⚡ Fun fact: Next trip is <a href="https://thebestjapan.com/">Japan</a> in May and Seattle in June 2026 for <a href="https://cascadiajs.com/">CascadiaJS</a>.
 - 🎯 Career Goal: Tech Lead
