@@ -2,7 +2,7 @@
 
 ### I'm a Senior Software Engineer, Tech Educator, and Career Mentor!
 - 👨 Pronouns: he/him/his
-- 🌱 Past volunteer mentor @ <a href="https://www.linkedin.com/school/codepath-org/posts/?feedView=all)">CodePath</a> and <a href="https://techtonica.org/">Techtonica</a>. 
+- 🌱 Past volunteer career mentor @ <a href="https://www.linkedin.com/school/codepath-org/posts/?feedView=all)">CodePath</a> and <a href="https://techtonica.org/">Techtonica</a>. 
 - 🎖️ Certified ScrumMaster (via <a href="https://github.com/frankstepanski/certificates/blob/master/scrum-alliance/CSM.pdf">Scrum Alliance</a>)
 - 👁️ Always on the lookout for <a href="https://www.deeplearning.ai/">new AI resources</a> to learn and grow as a professional.
 - 📚 Working towards <a href="https://aws.amazon.com/certification/certified-developer-associate/">AWS Certified Developer - Associate</a>.
