@@ -8,5 +8,5 @@
 - 📚 Working towards <a href="https://aws.amazon.com/certification/certified-developer-associate/">AWS Certified Developer - Associate</a>.
 - 🧠 2026 Learning Goals: <a href="https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210/">Distributed Systems</a>, and <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Microservices Architecture</a>.
 - 🐶 Love helping others practice interview skills in technical, algorithms, and system-design.
-- ⚡ 2026 Travel:  Montreal and Ottawa in May; Japan in end of September and <a href="https://www.commityourcode.com/">Commit Your Code</a> in October.
+- ⚡ 2026 Travel:  Montreal and Ottawa in May; Japan in September and <a href="https://www.commityourcode.com/">Commit Your Code</a> in October.
 - 🎯 Career Goal: Tech Lead
