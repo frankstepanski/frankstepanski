@@ -2,7 +2,7 @@
 
 ### I'm a Senior Software Engineer, Tech Educator, and Career Mentor!
 - 👨 Pronouns: he/him/his
-- 🌱 Volunteer SWE mentor @ <a href="https://outcomeschool.org/">Outcome School</a>. 
+- 🌱 Volunteer SWE Career mentor @ <a href="https://www.codepath.org/">CodePath</a>. 
 - 🎖️ Certified ScrumMaster (via Scrum Alliance)
 - 👁️ Always on the lookout for <a href="https://www.deeplearning.ai/">new AI resources</a> to learn and grow as a professional.
 - 📚 Working towards <a href="https://aws.amazon.com/certification/certified-developer-associate/">AWS Certified Developer - Associate</a> and <a href="https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request">Claude Certified Architect</a>.
